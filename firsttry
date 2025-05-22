@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>수정이의 웹페이지</title>
+   <script>
+       alert('안녕안녕');
+   </script>
+   <style>
+       background-color:pink;
+   </style>
+</head>
+<body>
+<h1>환영해요</h1>
+</body>
+</html>
